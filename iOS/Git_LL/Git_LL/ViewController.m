@@ -17,7 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self.label setText:@"Hello Harman!"];
+    [self.label setText:@"Hello Harman --Ken!"];
+    NSLog(@"Ken debug log");
 }
 
 - (void)didReceiveMemoryWarning {
