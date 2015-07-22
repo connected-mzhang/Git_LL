@@ -18,7 +18,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self.label setText:@"Hello Michael!"];
-}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
