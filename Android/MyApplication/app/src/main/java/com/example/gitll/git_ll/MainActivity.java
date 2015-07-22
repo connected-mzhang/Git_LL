@@ -16,7 +16,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         helloWorldText = (TextView) findViewById(R.id.hello_world_text);
-        helloWorldText.setText("Hello Harman!");
+        helloWorldText.setText("Hello Ryan!");
     }
 
 
